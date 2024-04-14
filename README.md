@@ -5,9 +5,11 @@ This repository contains the solutions to all the exercises done in the subject 
 ## Files details
 
 - **Excercise 1:** argentine_futbol_team.py  
-**Problem:** [Argentina](https://vjudge.net/problem/UVA-11804)
+**Problem:** [Argentina](https://vjudge.net/problem/UVA-11804)  
+**Algorithmic technique**: Backtracking
 
 
 - **Excercise 2:** MurciaSkyline.kt  
 **Problem:** [Murcia's Skyline](https://vjudge.net/problem/UVA-11790)  
+**Algorithmic technique**: Dinamic memory - Bottom-up  
 **Comments:** The file _MurciaSkyline.cpp_ is the alternative to _MurciaSkyline.kt_ in C++, as the Kotlin code didn't pass the tests of VJudge due to lower performance.
