@@ -13,3 +13,7 @@ This repository contains the solutions to all the exercises done in the subject 
 **Problem:** [Murcia's Skyline](https://vjudge.net/problem/UVA-11790)  
 **Algorithmic technique**: Dinamic memory - Bottom-up  
 **Comments:** The files _MurciaSkyline.cpp_ and _MurciaSkyline.java_ are alternative to _MurciaSkyline.kt_ in C++, as the Kotlin code cannot be tested in VJudge.
+
+- **Excercise 2:** MurciaSkyline.kt  
+**Problem:** [ACORN](https://vjudge.net/problem/UVA-1231)  
+**Algorithmic technique**: Dinamic memory - Bottom-up  
