@@ -25,3 +25,7 @@ This repository contains the solutions to all the exercises done in the subject 
 - **Excercise 5:** wine_trading.py  
 **Problem:** [Wine trading in Gergovia](https://vjudge.net/problem/SPOJ-GERGOVIA)  
 **Algorithmic technique**: Greedy  
+
+- **Excercise 5:** swap_letters.py  
+**Problem:** [Swap Letters](https://vjudge.net/problem/CodeForces-1215C)  
+**Algorithmic technique**: Greedy  
