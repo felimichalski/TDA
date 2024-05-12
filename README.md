@@ -21,3 +21,7 @@ This repository contains the solutions to all the exercises done in the subject 
 - **Excercise 4:** equivalent_strings.py  
 **Problem:** [Equivalent Strings](https://vjudge.net/problem/CodeForces-559B)  
 **Algorithmic technique**: Divide & conquer  
+
+- **Excercise 5:** wine_trading.py  
+**Problem:** [Wine trading in Gergovia](https://vjudge.net/problem/SPOJ-GERGOVIA)  
+**Algorithmic technique**: Greedy  
