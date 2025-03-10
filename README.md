@@ -1,6 +1,6 @@
 # Repository info
 
-This repository contains the solutions to all the exercises done in the subject "Técnicas de Diseño de Algoritmos" (first semester of 2024) (Algorithm Design Techniques) for the Bachelor's degree in Computer Science at the Universidad de Buenos Aires
+This repository contains the solutions to all the exercises done in the subject "Técnicas de Diseño de Algoritmos" (Algorithm Design Techniques), taken the first semester of 2024, for the Bachelor's degree in Computer Science at the Universidad de Buenos Aires
 
 ## Files details
 
